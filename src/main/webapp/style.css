@@ -1,0 +1,48 @@
+html{
+    background-color: lightblue;
+    padding: 20px;
+}
+
+table{
+    border: medium solid black;
+    border-radius: 10px;
+    background-color: pink;
+    color: deeppink;
+    padding: 5px;
+}
+
+th{
+    color: #88094d;
+    padding: 10px;
+}
+
+td{
+    padding: 10px;
+}
+
+label{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+input{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+hr{
+    border: 5px solid #88094d;
+    border-radius: 10px;
+}
+
+h1{
+    color: #88094d;
+}
+
+button{
+    background-color: #88094d;
+}
